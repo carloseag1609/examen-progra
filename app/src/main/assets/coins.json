@@ -1,0 +1,84 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "symbol": "btc",
+      "name": "Bitcoin",
+      "image": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png?1547033579",
+      "current_price": 48069.0,
+      "change": "0.4%"
+    },
+    {
+      "id": "ethereum",
+      "symbol": "eth",
+      "name": "Ethereum",
+      "image": "https://assets.coingecko.com/coins/images/279/large/ethereum.png?1595348880",
+      "current_price": 3961.82,
+      "change": "0.8%"
+    },
+    {
+      "id": "binancecoin",
+      "symbol": "bnb",
+      "name": "Binance Coin",
+      "image": "https://assets.coingecko.com/coins/images/825/large/binance-coin-logo.png?1547034615",
+      "current_price": 561.23,
+      "change": "0.0%"
+    },
+    {
+      "id": "tether",
+      "symbol": "usdt",
+      "name": "Tether",
+      "image": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png?1598003707",
+      "current_price": 1.0,
+      "change": "-0.6%"
+    },
+    {
+      "id": "solana",
+      "symbol": "sol",
+      "name": "Solana",
+      "image": "https://assets.coingecko.com/coins/images/4128/large/Solana.jpg?1635329178",
+      "current_price": 167.7,
+      "change": "0.8%"
+    },
+    {
+      "id": "usd-coin",
+      "symbol": "usdc",
+      "name": "USD Coin",
+      "image": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png?1547042389",
+      "current_price": 1.0,
+      "change": "0.0%"
+    },
+    {
+      "id": "cardano",
+      "symbol": "ada",
+      "name": "Cardano",
+      "image": "https://assets.coingecko.com/coins/images/975/large/cardano.png?1547034860",
+      "current_price": 1.22,
+      "change": "0.8%"
+    },
+    {
+      "id": "ripple",
+      "symbol": "xrp",
+      "name": "XRP",
+      "image": "https://assets.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1605778731",
+      "current_price": 0.807636,
+      "change": "0.9%"
+    },
+    {
+      "id": "polkadot",
+      "symbol": "dot",
+      "name": "Polkadot",
+      "image": "https://assets.coingecko.com/coins/images/12171/large/aJGBjJFU_400x400.jpg?1597804776",
+      "current_price": 27.17,
+      "change": "2.9%"
+    },
+    {
+      "id": "terra-luna",
+      "symbol": "luna",
+      "name": "Terra",
+      "image": "https://assets.coingecko.com/coins/images/8284/large/luna1557227471663.png?1567147072",
+      "current_price": 62.63,
+      "change": "-0.3%"
+    }
+  ]
+}
